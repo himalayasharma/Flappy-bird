@@ -8,5 +8,5 @@ Install the "pygame" module before running the script. Also ensure that the gall
 Checkout the documentation for pygame here: https://www.pygame.org/docs/
 
 ## Credits
-CodeWithHarry has an awesome tutorial for building the game from scratch. Check it out here: https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww
+CodeWithHarry has an awesome tutorial for building the game. Check it out here: https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww
 
